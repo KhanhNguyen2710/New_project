@@ -1,0 +1,62 @@
+  
+  .navbar {
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 165px;
+    height: auto;
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+    width: 30%;
+  }
+  
+  .navbar-center {
+    /* text-align: end; */
+    /* flex-grow: 1;  */
+    margin-right: 40px;
+    padding: 12px;
+    width: 40%;
+  }
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+    width: 10%;
+   
+  }
+  .navbar-right button {
+/* padding: 10px 15px; */
+    background: #094B72;
+  }
+
+  .navbar a {
+    text-decoration: none;
+    padding: 14px 16px;
+    /* font-size: 12px; */
+    font-weight: 400;
+  }
+  
+  .circle {
+    width: 11.01%;
+    border-radius: 50%;
+    background-color: #094B72;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .search-logo {
+    width: 24px;
+    height: 24px;
+  }
+  
+  
+  
